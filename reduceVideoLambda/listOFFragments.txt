@@ -1,0 +1,13 @@
+/home/ec2-user/environment/reduceVideoLambda/dc_output000.mp4
+/home/ec2-user/environment/reduceVideoLambda/dc_output001.mp4
+/home/ec2-user/environment/reduceVideoLambda/dc_output002.mp4
+/home/ec2-user/environment/reduceVideoLambda/dc_output003.mp4
+/home/ec2-user/environment/reduceVideoLambda/dc_output004.mp4
+/home/ec2-user/environment/reduceVideoLambda/dc_output005.mp4
+/home/ec2-user/environment/reduceVideoLambda/dc_output006.mp4
+/home/ec2-user/environment/reduceVideoLambda/dc_output007.mp4
+/home/ec2-user/environment/reduceVideoLambda/dc_output008.mp4
+/home/ec2-user/environment/reduceVideoLambda/dc_output009.mp4
+/home/ec2-user/environment/reduceVideoLambda/dc_output010.mp4
+/home/ec2-user/environment/reduceVideoLambda/dc_output011.mp4
+/home/ec2-user/environment/reduceVideoLambda/dc_output012.mp4
